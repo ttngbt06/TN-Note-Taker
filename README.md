@@ -15,4 +15,4 @@ The following animation shows the web application's appearance and functionality
 ![Mock Up Image](./public/assets/image/11-express-homework-demo.gif)
 
 ## Link
-Welcome to this **[Note Taker]()** application.
+Feeling interseting? Welcome to this deployed **[Note Taker](https://tn-note-taker-0b5b741b4c9f.herokuapp.com/)** application.
